@@ -1,5 +1,4 @@
-@ -0,0 +1,22 @@
-
+# Amazon_clone
 This is a Amazon App Clone with multiple functionalities like User authentication (Sign in or Login) using Firebase, Add to cart products , Payment Gateway using Stripe , Shows your order history using database in firebase and it is made using Reactjs.
 
 Demo Images : 
@@ -21,4 +20,3 @@ Demo Video :
 
 https://user-images.githubusercontent.com/93420193/174482922-266a0be5-280c-4c9f-a1a5-90dec7ad5305.mp4
 
- 
